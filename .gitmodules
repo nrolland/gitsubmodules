@@ -1,0 +1,6 @@
+[submodule "rack"]
+	path = rack
+	url = https://github.com/rack/rack
+[submodule "simplegit"]
+	path = simplegit
+	url = https://github.com/schacon/simplegit
